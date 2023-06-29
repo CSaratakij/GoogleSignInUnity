@@ -1,0 +1,3 @@
+[submodule "GoogleSignInUnityAndroidNativePlugins"]
+	path = GoogleSignInUnityAndroidNativePlugins
+	url = https://github.com/CSaratakij/GoogleSignInUnityAndroidNativePlugins.git

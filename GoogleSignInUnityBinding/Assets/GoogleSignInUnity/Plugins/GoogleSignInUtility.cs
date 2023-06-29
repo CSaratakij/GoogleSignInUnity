@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace GoogleSignInUnity
 {
-    public static class GoogleSignInUtility
+    internal static class GoogleSignInUtility
     {
         internal static AndroidJavaObject GetCurrentUnityActivity()
         {
